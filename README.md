@@ -37,9 +37,3 @@ This repository contains the **Week 2 Machine Learning Foundations** assignment.
 
 ---
 
-## 🚀 How to Run the Project Locally
-
-1. **Clone the Repository**:
-   ```bash
-   git clone [https://github.com/mahima5080/House-Price-Prediction-and-Titanic-Classification.git](https://github.com/mahima5080/House-Price-Prediction-and-Titanic-Classification.git)
-   cd House-Price-Prediction-and-Titanic-Classification
